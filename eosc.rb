@@ -3,7 +3,7 @@ class Eosc < Formula
   homepage "https://eosc.app/"
   url "https://github.com/eoscanada/eosc/releases/download/v1.1.0/eosc_1.1.0_macOS_x86_64.tar.gz"
   version "1.1.0"
-  sha256 "50d1c00e4a2be5c034bd62ddb17d6d80558400c9a866a76b8f28f281f0e27c5f"
+  sha256 "1aa5472d9bae114e55fd09cc5b3c3b619b35eb15c470402197bb2b58e237cf76"
 
   def install
     bin.install "eosc"
