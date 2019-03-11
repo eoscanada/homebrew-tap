@@ -1,9 +1,9 @@
 class Eosc < Formula
   desc "Cross-platform EOS command-line swiss-army-knife"
   homepage "https://eosc.app/"
-  url "https://github.com/eoscanada/eosc/releases/download/v1.2.3/eosc_1.2.3_macOS_x86_64.tar.gz"
-  version "1.2.3"
-  sha256 "71d49e32d2e1dfb8f4c68f1b53b9e2a8d205cc61f5bb3310c2685270e3c0a55f"
+  url "https://github.com/eoscanada/eosc/releases/download/v1.2.4/eosc_1.2.4_macOS_x86_64.tar.gz"
+  version "1.2.4"
+  sha256 "0a5a59216aaaa55a71a154454e6ea54890de785ea8e5c555703ac19eb3d0dfcb"
 
   def install
     bin.install "eosc"
